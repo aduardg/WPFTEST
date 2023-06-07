@@ -18,5 +18,8 @@
     <Page Update="Pages\TaskWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Styles\GeneralStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>

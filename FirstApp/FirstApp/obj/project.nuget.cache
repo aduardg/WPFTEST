@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4NB1/eXpsceCYvNNGKOQfCzfuSe6q8jh4qMRe8qPXAq8QyE5Uhv2D+tcQ9h0LmG55+67ZITZeIU0b/EcFpZ7A==",
+  "dgSpecHash": "kvRxskxazNAEANfrOpra07lwcM4eQdXjtgFh4apxTOJeZxIGJPx/nQf2ZttlYmvdrcsWL5zoUbdDj/u7Ao5F+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\e.gudz\\Desktop\\projects\\wpf\\FirstApp\\FirstApp\\FirstApp.csproj",
+  "projectFilePath": "C:\\Users\\e.gudz\\Desktop\\projects\\wpf\\WPFTEST\\FirstApp\\FirstApp\\FirstApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\e.gudz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\e.gudz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\e.gudz\Desktop\projects\wpf\FirstApp\FirstApp\obj\Debug\net7.0-windows\
+C:\Users\e.gudz\Desktop\projects\wpf\WPFTEST\FirstApp\FirstApp\obj\Debug\net7.0-windows\
 FirstApp
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\e.gudz\Desktop\projects\wpf\FirstApp\FirstApp\App.xaml
-2865141932
+C:\Users\e.gudz\Desktop\projects\wpf\WPFTEST\FirstApp\FirstApp\App.xaml
+32045153317
 
 10-75143139
 2231760006934
-MainWindow.xaml;Pages\TaskWindow.xaml;
+MainWindow.xaml;Pages\TaskWindow.xaml;Styles\GeneralStyle.xaml;
 
-False
+True
 
